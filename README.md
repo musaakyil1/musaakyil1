@@ -11,6 +11,7 @@ I love building user-friendly and efficient applications with modern technologie
 
 ## 📫 Connect with Me
 - **LinkedIn**: //www.linkedin.com/in/musa-akyil)
+- **e-mail**: msaakyil21@gmail.com
 
 ## 🛠️ Technologies & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
