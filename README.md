@@ -1,16 +1,20 @@
-# 💫 About Me:
-# Hi there, I'm Musa Akyıl! 👋<br><br>## 🚀 About Me<br>I'm a passionate **Front-end | Back-end | Mobile Developer** specialized in:<br><br>- 🌐 **Front-end**: React, JavaScript<br>- 📱 **Mobile**: React Native (iOS & Android)<br>- ⚙️ **Back-end**: Node.js<br><br>I love building user-friendly and efficient applications with modern technologies!<br><br>## 📫 Connect with Me<br>- **LinkedIn**: [musa-akyil](https://www.linkedin.com/in/musa-akyil)<br><br>  e-mail: msaakyil21@gmail.com <br><br>## 🛠️ Technologies & Tools<br>![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)<br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br><br>## 📈 GitHub Stats<br>![Musa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)<br><br>## <br><br>---<br>💡 *Feel free to connect and collaborate!* 🚀<br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=musaakyil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=musaakyil1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=musaakyil1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 🚀 Musa Akyıl - Full Stack Developer
 
----
-[![](https://visitcount.itsvg.in/api?id=musaakyil1&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Continuous+Learner+%26+Problem+Solver" alt="Header" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
 
+```javascript
+const musaAkyil1 = {
+  level: "Junior Developer",
+  technologies: ["React", "React Native", "Node.js", "JavaScript"],
+  skills: ["Teamwork", "Problem Solving", "Clean Code"],
+  goal: "To write the most functional and readable code",
+  motto: "Coding is an art that becomes beautiful with the right brush strokes"
+};
 ---
 💡 *Feel free to connect and collaborate!* 🚀
 
