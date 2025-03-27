@@ -8,13 +8,13 @@
 ## 👨‍💻 About Me
 
 ```javascript
-const musaAkyil1 = {
+const musaAkyil1 = 
   level: "Junior Developer",
   technologies: ["React", "React Native", "Node.js", "JavaScript"],
   skills: ["Teamwork", "Problem Solving", "Clean Code"],
   goal: "To write the most functional and readable code",
   motto: "Coding is an art that becomes beautiful with the right brush strokes"
-};
+
 ---
 💡 *Feel free to connect and collaborate!* 🚀
 
