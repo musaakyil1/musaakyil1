@@ -6,6 +6,21 @@
 
 ## 👨‍💻 About Me 🤓
 
+   javascript
+const musaAkyil = 
+  level: "👶 Junior Developer",
+  technologies: ["⚛️ React", "📱 React Native", "🟢 Node.js", "🟨 JavaScript"],
+  skills: ["👥 Teamwork", "🔧 Problem Solving", "✨ Clean Code"],
+  goal: "💎 To write the most functional and readable code",
+  motto: "🎨 Coding is an art that becomes beautiful with the right brush strokes"
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Continuous+Learner+%26+Problem+Solver" alt="Header" />
+</p>
+
+## 👨‍💻 About Me 🤓
+
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
