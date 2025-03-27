@@ -6,15 +6,6 @@
 
 ## 👨‍💻 About Me 🤓
 
-```javascript
-const musaAkyil = {
-  level: "👶 Junior Developer",
-  technologies: ["⚛️ React", "📱 React Native", "🟢 Node.js", "🟨 JavaScript"],
-  skills: ["👥 Teamwork", "🔧 Problem Solving", "✨ Clean Code"],
-  goal: "💎 To write the most functional and readable code",
-  motto: "🎨 Coding is an art that becomes beautiful with the right brush strokes"
-};
-
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <h3 align="left">Connect with me:</h3>
