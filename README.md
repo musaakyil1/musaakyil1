@@ -1,4 +1,4 @@
-# 🚀 Musa Akyıl | Full Stack Developer 💻  
+# 🚀 Musa Akyıl | On the Path to Becoming a Full Stack Developer 💻  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Code+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
@@ -8,12 +8,12 @@
 
 ## 🌟 About Me  
 
-👋 **Hello, I'm Musa Akyıl!** A passionate Full Stack Developer, always eager to explore new technologies and improve my skills. I am new to the industry but highly motivated, active, and open to innovations. I believe in writing the most functional, applicable, and readable code while maintaining industry standards and teamwork. 
+👋 **Hello, I'm Musa Akyıl!** A passionate developer on the path to becoming a Full Stack Developer. I am new to the industry but highly motivated, active, and open to innovations. I believe in writing the most functional, applicable, and readable code while maintaining industry standards and teamwork. 
 
 💡 **Passionate about building scalable and user-friendly applications.**  
 🔥 **Turning complex problems into simple solutions with creativity and efficiency.**  
 📚 **Constantly learning and growing to stay ahead in the fast-evolving tech world.**  
-💻 **Proficient in Frontend, Backend, and Mobile Development (iOS & Android).**  
+💻 **Focused on improving my Frontend, Backend, and Mobile Development (iOS & Android) skills.**  
 🎯 **Dedicated to teamwork and delivering high-impact solutions.**  
 🚀 **Motivated, energetic, and always ready for new challenges!**  
 
@@ -51,6 +51,7 @@
 ☕ **Fueled by coffee, driven by code!**  
 🚀 **Dreaming in JavaScript!**  
 💡 **Always up for a coding challenge!**  
+
 
 
 <h3 align="left">Languages and Tools:</h3>
