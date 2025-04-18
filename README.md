@@ -43,15 +43,13 @@ Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm
 ---
 
 ## 🚀 Tech Stack  
-## 🚀 Teknoloji Yığını  
+## 🚀 Teknoloji  
 
-### 🖥️ Frontend  
-### 🖥️ Arayüz (Frontend)  
+### 🖥️ Frontend 
 - ⚛️ React.js  
 - 📱 React Native  
 
 ### ⚙️ Backend  
-### ⚙️ Arka Uç (Backend)  
 - 🟢 Node.js  
 - 🟨 JavaScript  
 
@@ -74,7 +72,7 @@ Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm
 ---
 
 ## 📌 Fun Fact  
-## 📌 Eğlenceli Gerçek  
+## 📌 Eğlenceli
 
 ☕ **Fueled by coffee, driven by code!**  
 ☕ **Kahveyle çalışır, kodla yaşarım!**
