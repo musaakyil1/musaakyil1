@@ -1,4 +1,5 @@
 # 🚀 Musa Akyıl | On the Path to Becoming a Full Stack Developer 💻  
+# 🚀 Musa Akyıl | Full Stack Developer Yolunda Bir Yazılımcı 💻  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+Mobile+Developer;React+%7C+React+Native+%7C+Node.js;Code+%7C+Creativity+%7C+Innovation" alt="Typing SVG" />
@@ -7,39 +8,64 @@
 ---
 
 ## 🌟 About Me  
+## 🌟 Hakkımda  
 
-👋 **Hello, I'm Musa Akyıl!** A passionate developer on the path to becoming a Full Stack Developer. I am new to the industry but highly motivated, active, and open to innovations. I believe in writing the most functional, applicable, and readable code while maintaining industry standards and teamwork. 
+👋 **Hello, I'm Musa Akyıl!** A passionate developer on the path to becoming a Full Stack Developer.  
+👋 **Merhaba, ben Musa Akyıl!** Full Stack Developer olma yolunda tutkulu bir yazılımcıyım.
+
+I am new to the industry but highly motivated, active, and open to innovations.  
+Sektörde yeniyim ama oldukça motiveyim, aktif çalışırım ve yeniliklere açığım.
+
+I believe in writing the most functional, applicable, and readable code while maintaining industry standards and teamwork.  
+Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm. Ekip çalışmasına ve sektör standartlarına sadık kalırım.
 
 💡 **Passionate about building scalable and user-friendly applications.**  
+💡 **Ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirmeye tutkuluyum.**
+
 🔥 **Turning complex problems into simple solutions with creativity and efficiency.**  
+🔥 **Karmaşık problemleri yaratıcılıkla ve verimlilikle basit çözümlere dönüştürmeyi seviyorum.**
+
 📚 **Constantly learning and growing to stay ahead in the fast-evolving tech world.**  
+📚 **Sürekli öğrenmeye ve gelişmeye açığım. Teknolojinin hızına ayak uydurmayı hedefliyorum.**
+
 💻 **Focused on improving my Frontend, Backend, and Mobile Development (iOS & Android) skills.**  
+💻 **Frontend, Backend ve Mobil (iOS & Android) alanlarında kendimi geliştiriyorum.**
+
 🎯 **Dedicated to teamwork and delivering high-impact solutions.**  
+🎯 **Takım çalışmasına önem veririm ve yüksek etki sağlayacak işler üretmeye odaklanırım.**
+
 🚀 **Motivated, energetic, and always ready for new challenges!**  
+🚀 **Motivasyonu yüksek, enerjik ve yeni zorluklara her zaman hazırım!**
 
 > 🏆 "Great code is like poetry; structured, elegant, and powerful."  
+> 🏆 “Harika kod, şiir gibidir; yapılı, zarif ve güçlü.”
 
 ---
 
 ## 🚀 Tech Stack  
+## 🚀 Teknoloji Yığını  
 
 ### 🖥️ Frontend  
+### 🖥️ Arayüz (Frontend)  
 - ⚛️ React.js  
 - 📱 React Native  
 
 ### ⚙️ Backend  
+### ⚙️ Arka Uç (Backend)  
 - 🟢 Node.js  
 - 🟨 JavaScript  
 
 ### 🎨 Soft Skills  
-- 🛠 Problem Solving  
-- 🎯 Strong Communication & Team Collaboration  
-- ✨ Clean & Maintainable Code  
-- 📌 Adaptability & Quick Learning  
+### 🎨 Kişisel Beceriler  
+- 🛠 Problem Solving / Problem Çözme  
+- 🎯 Strong Communication & Team Collaboration / Güçlü İletişim & Takım Çalışması  
+- ✨ Clean & Maintainable Code / Temiz & Sürdürülebilir Kod  
+- 📌 Adaptability & Quick Learning / Uyum Sağlama & Hızlı Öğrenme  
 
 ---
 
 ## 📬 Let's Connect!  
+## 📬 Benimle İletişime Geç!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-akyil/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/musaakyil1)  
@@ -47,10 +73,17 @@
 
 ---
 
-### 📌 Fun Fact  
+## 📌 Fun Fact  
+## 📌 Eğlenceli Gerçek  
+
 ☕ **Fueled by coffee, driven by code!**  
+☕ **Kahveyle çalışır, kodla yaşarım!**
+
 🚀 **Dreaming in JavaScript!**  
+🚀 **JavaScript ile hayal kuruyorum!**
+
 💡 **Always up for a coding challenge!**  
+💡 **Her zaman yeni bir kodlama mücadelesine hazırım!**
 
 
 
