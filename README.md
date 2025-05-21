@@ -1,4 +1,4 @@
-# 🚀 Musa Akyıl | On the Path to Becoming a Full Stack Developer 💻  
+
 # 🚀 Musa Akyıl | Full Stack Developer Yolunda Bir Yazılımcı 💻  
 
 <p align="center">
@@ -7,43 +7,37 @@
 
 ---
 
-## 🌟 About Me  
+
 ## 🌟 Hakkımda  
 
-👋 **Hello, I'm Musa Akyıl!** A passionate developer on the path to becoming a Full Stack Developer.  
 👋 **Merhaba, ben Musa Akyıl!** Full Stack Developer olma yolunda tutkulu bir yazılımcıyım.
 
-I am new to the industry but highly motivated, active, and open to innovations.  
-Sektörde yeniyim ama oldukça motiveyim, aktif çalışırım ve yeniliklere açığım.
 
-I believe in writing the most functional, applicable, and readable code while maintaining industry standards and teamwork.  
+Sektörde yeniyim ama oldukça motiveyim, aktif çalışırım ve yeniliklere açığım.
+  
 Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm. Ekip çalışmasına ve sektör standartlarına sadık kalırım.
 
-💡 **Passionate about building scalable and user-friendly applications.**  
+
 💡 **Ölçeklenebilir ve kullanıcı dostu uygulamalar geliştirmeye tutkuluyum.**
 
-🔥 **Turning complex problems into simple solutions with creativity and efficiency.**  
 🔥 **Karmaşık problemleri yaratıcılıkla ve verimlilikle basit çözümlere dönüştürmeyi seviyorum.**
 
-📚 **Constantly learning and growing to stay ahead in the fast-evolving tech world.**  
+
 📚 **Sürekli öğrenmeye ve gelişmeye açığım. Teknolojinin hızına ayak uydurmayı hedefliyorum.**
 
-💻 **Focused on improving my Frontend, Backend, and Mobile Development (iOS & Android) skills.**  
+
 💻 **Frontend, Backend ve Mobil (iOS & Android) alanlarında kendimi geliştiriyorum.**
 
-🎯 **Dedicated to teamwork and delivering high-impact solutions.**  
 🎯 **Takım çalışmasına önem veririm ve yüksek etki sağlayacak işler üretmeye odaklanırım.**
 
-🚀 **Motivated, energetic, and always ready for new challenges!**  
 🚀 **Motivasyonu yüksek, enerjik ve yeni zorluklara her zaman hazırım!**
 
-> 🏆 "Great code is like poetry; structured, elegant, and powerful."  
 > 🏆 “Harika kod, şiir gibidir; yapılı, zarif ve güçlü.”
 
 ---
 
 ## 🚀 Tech Stack  
-## 🚀 Teknoloji  
+
 
 ### 🖥️ Frontend 
 - ⚛️ React.js  
@@ -55,14 +49,14 @@ Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm
 
 ### 🎨 Soft Skills  
 ### 🎨 Kişisel Beceriler  
-- 🛠 Problem Solving / Problem Çözme  
-- 🎯 Strong Communication & Team Collaboration / Güçlü İletişim & Takım Çalışması  
-- ✨ Clean & Maintainable Code / Temiz & Sürdürülebilir Kod  
-- 📌 Adaptability & Quick Learning / Uyum Sağlama & Hızlı Öğrenme  
+- 🛠  Problem Çözme  
+- 🎯  Güçlü İletişim & Takım Çalışması  
+- ✨  Temiz & Sürdürülebilir Kod  
+- 📌  Uyum Sağlama & Hızlı Öğrenme  
 
 ---
 
-## 📬 Let's Connect!  
+
 ## 📬 Benimle İletişime Geç!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/musa-akyil/)  
@@ -72,15 +66,13 @@ Kod yazarken işlevselliğe, uygulanabilirliğe ve okunabilirliğe önem veririm
 ---
 
 ## 📌 Fun Fact  
-## 📌 Eğlenceli
 
-☕ **Fueled by coffee, driven by code!**  
+
 ☕ **Kahveyle çalışır, kodla yaşarım!**
 
 🚀 **Dreaming in JavaScript!**  
-🚀 **JavaScript ile hayal kuruyorum!**
 
-💡 **Always up for a coding challenge!**  
+
 💡 **Her zaman yeni bir kodlama mücadelesine hazırım!**
 
 
